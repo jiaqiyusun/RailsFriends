@@ -5,6 +5,7 @@
 Heroku.com is a great Domino for your Ruby App
 Heroku toolbelt CLI(comand line interface)
 
+https://www.youtube.com/watch?v=fmyvWz5TUWg&t=11685s
 
 
 This README would normally document whatever steps are necessary to get the
